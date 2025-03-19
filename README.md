@@ -27,7 +27,7 @@ To enhance operational efficiency and provide actionable insights into emergency
  - Count the number of patients referred to specific departments from the ER each day.
  - Use an area sparkline to track daily trends and identify departments with high referral rates, which may require additional resources.
 
-# Dashboard-1. <ins>Monthly View</ins>
+## Dashboard-1. <ins>Monthly View</ins>
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
 
 ## Chart to Develop:
