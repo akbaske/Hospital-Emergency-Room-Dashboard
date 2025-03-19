@@ -7,6 +7,9 @@ Committed to delivering high-quality patient care and improving emergency respon
 ## Skills
 - Data Visulazation
 - DAX
+- Power Query
+- Data Handling & Intregation
+- ETL
 
 ## Requirements & KPI's
 To enhance operational efficiency and provide actionable insights into emergency room performance, we need to create a Hospital Emergency Room Analysis Dashboard in Power BI. This solution will enable stakeholders to track, analysis, and make data-driven decisions regarding patient management and service optimization.
