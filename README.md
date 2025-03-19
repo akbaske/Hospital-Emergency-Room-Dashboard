@@ -37,6 +37,7 @@ Objective: Monitor key metrics and trends on a month-by-month basis to identify 
 - Timeliness:Measure the percentage of patients seen within 30 minutes.- .Gender Analysis: Visualize patient distribution by gender.
 - Racial Demographics: Analyze patient data by race.
 - Time Analysis:Assess patient volume by day and hour.
+![Monthly View Dashboard](https://github.com/akbaske/Hospital-Emergency-Room-Dashboard/blob/c472b75576328ffaeafc2bed7da26155d8e70deb/monthlyview.png)
 
 
 
