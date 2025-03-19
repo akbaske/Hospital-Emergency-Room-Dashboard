@@ -51,7 +51,37 @@ Chart:
 
 ## <ins>Consolidated View Dashboard</ins>
 
-![Consolidated view](https://github.com/akbaske/Hospital-Emergency-Room-Dashboard/blob/c472b75576328ffaeafc2bed7da26155d8e70deb/monthlyview.png)
+![Consolidated view](https://github.com/akbaske/Hospital-Emergency-Room-Dashboard/blob/fadf12eda5edc31f910603b6fb6596d0742c2ba3/consolidatedview.png)
+
+
+## Dashboard-3: Patient Details
+Objective: offer granular insights into patient-level data to enable detailed analysis and troubleshooting.
+
+Chart: A grid displaying essential fields:
+- Patient ID
+- Patient Full Name
+- Gender
+- Age
+- Admission Date
+- Patient Race
+- Wait Time
+- Department Referral
+- Admission Status
+
+## <ins>Patient Details</ins>
+
+![Patient Details](https://github.com/akbaske/Hospital-Emergency-Room-Dashboard/blob/fadf12eda5edc31f910603b6fb6596d0742c2ba3/patientdetail.png)
+
+
+## Dashboard-4: Key takeaways
+Objective:Summarize the findings from all dashboards to provide clear and actionable insights for stakeholders.
+
+Charts:
+- Descriptive analysis of each metric and visulation, including patterns, anomalies, and actionable recommendations to optimize emergency room operations and patient care.
+
+## <ins>Keytakeaways</ins>
+
+![keytakeaways](https://github.com/akbaske/Hospital-Emergency-Room-Dashboard/blob/fadf12eda5edc31f910603b6fb6596d0742c2ba3/keytakeaways.png)
 
 
 
