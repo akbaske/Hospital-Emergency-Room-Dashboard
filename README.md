@@ -27,10 +27,10 @@ To enhance operational efficiency and provide actionable insights into emergency
  - Count the number of patients referred to specific departments from the ER each day.
  - Use an area sparkline to track daily trends and identify departments with high referral rates, which may require additional resources.
 
-## Dashboard-1. <ins>Monthly View</ins>
+## Dashboard-1: <ins>Monthly View</ins>
 Objective: Monitor key metrics and trends on a month-by-month basis to identify patterns and areas for improvement.
 
-## Chart to Develop:
+## Chart:
 - Patient Admission Status: Track admitted vs. non-admitted patients.
 - Patient Age Distribution:Group patients by 10-year age intervals.
 - Department Referrals:Analyze referral trends across different departments.
@@ -41,6 +41,17 @@ Objective: Monitor key metrics and trends on a month-by-month basis to identify 
 ## <ins>Monthly View Dashboard</ins>
 
 ![Monthly View Dashboard](https://github.com/akbaske/Hospital-Emergency-Room-Dashboard/blob/c472b75576328ffaeafc2bed7da26155d8e70deb/monthlyview.png)
+
+
+## Dashboard-2: <ins>Consolidated view</ins>
+Objective:Provide a holistic summary of hospital performance for a selected date range.
+
+Chart:
+.Similar metric as the Monthly View, but aggregated over a customizable date range for broader insights and trend analysis.
+
+## <ins>Consolidated View Dashboard</ins>
+
+![Consolidated view](https://github.com/akbaske/Hospital-Emergency-Room-Dashboard/blob/c472b75576328ffaeafc2bed7da26155d8e70deb/monthlyview.png)
 
 
 
